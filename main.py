@@ -1,10 +1,12 @@
+import os
 import streamlit as st
 import requests
 from PyPDF2 import PdfFileReader
 from io import BytesIO
 
+
 # Set your Nova AI API key
-nova_api_key = 'NOVA_API_KEY'
+nova_api_key = os.environ['NOVA_API_KEY']
 
 from pdfreader import SimplePDFViewer
 

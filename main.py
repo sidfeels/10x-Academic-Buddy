@@ -44,7 +44,7 @@ def generate_questions_with_nova_ai(text):
 
 def get_ai_response(text, system_prompt):
 
-    nova_api_url = '/v1/chat/completions'
+    nova_api_url = 'https://api.naga.ac/v1/chat/completions'
     data = {
         "model": "gpt-3.5-turbo", #suggested model for faster response
         "messages": [

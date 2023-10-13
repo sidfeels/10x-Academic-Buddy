@@ -1,12 +1,9 @@
 <h1 align="center">📓10x-Academic Buddy</h1>
 
 <p align="center">
-Streamlit web application that uses AI to generate comprehensive notes and question-answer pairs from PDFs.
+Streamlit web application that uses AI to generate comprehensive notes and question-answer pairs from Academic Notes.
 </p>
 
-<p align="center">
-  <img src="note_taking.jpg" alt="Dashboard Screenshot" width="80%">
-</p>
 
 ---
 
@@ -48,7 +45,7 @@ Streamlit web application that uses AI to generate comprehensive notes and quest
 Start by cloning this repository to your local machine using:
 
 ```bash
-git clone https://github.com/liticx/📓10x-Academic Buddy.git
+git clone https://github.com/liticx/10x-Academic Buddy.git
 ```
 
 Make sure you meet the prerequisites before moving to the installation. You must have Python 3.7 or higher installed on your machine, and 'pip' must be configured.

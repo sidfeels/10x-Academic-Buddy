@@ -1,6 +1,4 @@
-install
-PyPDF2
-languageswitch
-requests
 streamlit
+requests
+PyPDF2
 pdfreader

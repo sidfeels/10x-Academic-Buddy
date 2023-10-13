@@ -1,0 +1,6 @@
+install
+PyPDF2
+languageswitch
+requests
+streamlit
+pdfreader

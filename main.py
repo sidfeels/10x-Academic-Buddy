@@ -6,7 +6,7 @@ from io import BytesIO
 
 
 # Set your Nova AI API key
-nova_api_key = os.environ['NOVA_API_KEY']
+nova_api_key = st.secrets["nova"]["api_key"]
 
 from pdfreader import SimplePDFViewer
 

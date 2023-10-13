@@ -91,7 +91,7 @@ def main():
     with col2:
         st.title('📓10x-Academic Buddy')
         st.write('_Upload your Academic Notes and get comprehensive, ordered notes, and question and answers generated out of it._')
-
+        st.write('Made with <3 by *[Siddhant Panpatil](https://github.com/liticx/10x-Academic-Buddy)*')
     uploaded_file = st.sidebar.file_uploader("### **Hello there, Human :)**", type="pdf")
 
     
